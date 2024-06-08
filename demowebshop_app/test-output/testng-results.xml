@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Default suitehas started execution]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[dummy]]>
+    </line>
+    <line>
+      <![CDATA[login is done]]>
+    </line>
+    <line>
+      <![CDATA[demo test script has started ]]>
+    </line>
+    <line>
+      <![CDATA[demohas started Success]]>
+    </line>
+    <line>
+      <![CDATA[logout is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-04T18:59:21 IST" name="Default suite" finished-at="2024-06-04T18:59:35 IST" duration-ms="13812">
+    <groups>
+    </groups>
+    <test started-at="2024-06-04T18:59:21 IST" name="Default test" finished-at="2024-06-04T18:59:35 IST" duration-ms="13812">
+      <class name="demowebshop_app.Extendreportspakcage.demoforextendreportsTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:demowebshop_app.Extendreportspakcage.demoforextendreportsTest@37afeb11]" started-at="2024-06-04T18:59:21 IST" name="openBrowser" finished-at="2024-06-04T18:59:32 IST" duration-ms="10605" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:demowebshop_app.Extendreportspakcage.demoforextendreportsTest@37afeb11]" started-at="2024-06-04T18:59:32 IST" name="login" finished-at="2024-06-04T18:59:34 IST" duration-ms="1679" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[dummy]]>
+            </line>
+            <line>
+              <![CDATA[login is done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="demo()[pri:0, instance:demowebshop_app.Extendreportspakcage.demoforextendreportsTest@37afeb11]" started-at="2024-06-04T18:59:34 IST" name="demo" finished-at="2024-06-04T18:59:34 IST" duration-ms="486" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[demo test script has started ]]>
+            </line>
+            <line>
+              <![CDATA[demohas started Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:demowebshop_app.Extendreportspakcage.demoforextendreportsTest@37afeb11]" started-at="2024-06-04T18:59:34 IST" name="logout" finished-at="2024-06-04T18:59:35 IST" duration-ms="769" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:demowebshop_app.Extendreportspakcage.demoforextendreportsTest@37afeb11]" started-at="2024-06-04T18:59:35 IST" name="closeBrowser" finished-at="2024-06-04T18:59:35 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- demowebshop_app.Extendreportspakcage.demoforextendreportsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
